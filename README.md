@@ -36,6 +36,10 @@ Push sur `main` de `mathematovitch/cv` : GitHub Pages sert le dépôt tel quel.
   formations continues suivies, missions) ; vérifier le niveau d'anglais
   (B2 BULATS, attestation non retrouvée). Source actuelle : CV de
   l'inspection 2026 et rapport DNL.
+- [ ] **2. Étoffer le CV en général**, en repartant de la version envoyée à
+  l'AEFE en 2024.
+- [ ] **3. Version PDF du CV**, générée depuis la page (impression propre) ou
+  depuis un `.tex`.
 
 <details>
 <summary>Déjà fait</summary>
